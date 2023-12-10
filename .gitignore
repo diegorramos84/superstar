@@ -34,3 +34,8 @@ wp-config.php
 
 
 # End of https://www.toptal.com/developers/gitignore/api/wordpress
+
+
+# Dependency directories
+node_modules/
+jspm_packages/
